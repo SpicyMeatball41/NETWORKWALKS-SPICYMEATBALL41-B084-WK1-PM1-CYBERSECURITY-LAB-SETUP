@@ -1,6 +1,6 @@
 # Cybersecurity Lab Environment Setup
 
-**Cybersecurity-Lab-Setup-Jahmir-Vargas-Week1**
+**Cybersecurity-Lab-Setup-SpicyMeatball41-Week1**
 
 Building an isolated virtual lab for penetration testing and ethical hacking practice.
 
@@ -17,7 +17,7 @@ This project sets up a virtual cybersecurity and penetration-testing laboratory 
 
 The lab runs on a private virtual network so that more machines can be added later and used as targets for **authorized** security testing only. Everything in this lab runs on my own devices.
 
-**Author:** Jahmir Vargas
+**Author:** SpicyMeatball41
 
 ---
 
